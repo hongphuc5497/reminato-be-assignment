@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  link: MyString
+  desc: MyString
+  title: MyString
+  uid: MyString
+  like: 1
+  dislike: 1
+  shared_by: MyString
+
+two:
+  link: MyString
+  desc: MyString
+  title: MyString
+  uid: MyString
+  like: 1
+  dislike: 1
+  shared_by: MyString
